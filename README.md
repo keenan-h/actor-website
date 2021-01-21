@@ -5,9 +5,9 @@ This is a template I made for a simple personal website for an actor. You can se
 
 I forked the basic Python and [Flask](http://flask.pocoo.org/) structure as well as the [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) and [Netlify](https://www.netlify.com/) deployment from [engfragui](https://github.com/engfragui/personal-website).
 
-I designed the site using bootstrap and included several different css templates to choose from. 
+I designed the site using [Bootstrap](https://getbootstrap.com/) and included several different CSS templates to choose from. 
 
-The name, information, and links for the site are all inputed into the actorinfo.py file.
+The name, information, and links for the site are all inputed into the `actorinfo.py` file.
 
 ## Development
 
