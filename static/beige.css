@@ -110,6 +110,8 @@ svg {
     #bio {
         font-size: 12pt;
     }
+    #headshot {
+        display: none;
     body {
     height:100vh;
 }
@@ -123,5 +125,7 @@ svg {
     #bio {
         font-size: 12pt;
     }
+    #headshot {
+        display: none;
 }
 
