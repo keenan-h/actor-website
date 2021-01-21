@@ -106,6 +106,8 @@ svg:hover {
     #bio {
         font-size: 12pt;
     }
+    #headshot {
+        display: none;
     body {
     height:100vh;
 }
@@ -119,5 +121,7 @@ svg:hover {
     #bio {
         font-size: 12pt;
     }
+    #headshot {
+        display: none;
 }
 
