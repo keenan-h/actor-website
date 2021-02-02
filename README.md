@@ -2,7 +2,7 @@
 Simple, clean one page website for an actor or creative. 
 
 ## Acknowledgments & Structure
-I forked the basic Python and [Flask](http://flask.pocoo.org/) structure as well as the [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) and [Netlify](https://www.netlify.com/) deployment from [engfragui](https://github.com/engfragui/personal-website). I made this for an actor friend, Ian. I have his permission to offer it as template. You can see the result at [ianedlund.com](http://ianedlund.com/). 
+I forked the basic Python and [Flask](http://flask.pocoo.org/) / [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) structure from [engfragui](https://github.com/engfragui/personal-website). I made this for an actor friend, Ian. I have his permission to offer it as template. You can see the result at [ianedlund.com](http://ianedlund.com/). 
 
 ## Design
 I designed the site using [Bootstrap](https://getbootstrap.com/) and included several different CSS style pages with different color palettes. Currently the link is set to ```blue.css```.
