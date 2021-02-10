@@ -1,13 +1,19 @@
 # Actor Website
+Simple, clean one page website for an actor or creative. 
 
-This is a template I made for a simple personal website for an actor. You can see the result at [ianedlund.com](http://ianedlund.com/). 
+## Acknowledgments & Structure
+I forked the basic Python and [Flask](http://flask.pocoo.org/) / [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) structure from [engfragui](https://github.com/engfragui/personal-website). I made this for an actor friend, Ian. I have his permission to offer it as template. You can see the result at [ianedlund.com](http://ianedlund.com/). 
 
+## Design
+I designed the site using [Bootstrap](https://getbootstrap.com/) and included several different CSS style pages with different color palettes. Currently the link is set to ```blue.css```.
 
-I forked the basic Python and [Flask](http://flask.pocoo.org/) structure as well as the [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) and [Netlify](https://www.netlify.com/) deployment from [engfragui](https://github.com/engfragui/personal-website).
+## Functionality
+The name, information, and links for the site are all inputed into the `actorinfo.py` file. Add a resume, headshot, and headshot cropped to a square into the static folder and replace the placeholder. Either replace the links in ```templates/home.html``` or name your files:
 
-I designed the site using bootstrap and included several different css templates to choose from. 
+PDF Resume File - ```resume.pdf``` \
+JPG Headshot - ```headshot.jpg``` \
+JPG Headshot Cropped - ```square.jpg``` 
 
-The name, information, and links for the site are all inputed into the actorinfo.py file.
 
 ## Development
 
