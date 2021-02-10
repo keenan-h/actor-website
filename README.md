@@ -1,6 +1,8 @@
 # Actor Website
 Simple, clean one page website for an actor or creative. 
 
+![screenshot](screenshot.png)
+
 ## Acknowledgments & Structure
 I forked the basic Python and [Flask](http://flask.pocoo.org/) / [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) structure from [engfragui](https://github.com/engfragui/personal-website). I made this for an actor friend, Ian. I have his permission to offer it as template. You can see the result at [ianedlund.com](http://ianedlund.com/). 
 
